@@ -1,5 +1,5 @@
 # :wave: The Basics of GitHub 
-![](imagenese/asm.png)
+
 ![](imagenese/princess.png)
 ## 🤓 Course overview and learning outcomes 
 
